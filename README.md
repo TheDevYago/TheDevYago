@@ -61,3 +61,12 @@ Sou um desenvolvedor Front-End apaixonado por criar interfaces responsivas, dinÃ
 </div>
 
 ---
+<br>
+
+### ğŸ§ O que estou ouvindo agora
+
+<div align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=marcosyagorochavieira&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+</div>
+
+---
