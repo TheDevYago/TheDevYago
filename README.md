@@ -38,3 +38,14 @@ Sou um desenvolvedor Front-End apaixonado por criar interfaces responsivas, din�
 </div>
 
 ---
+
+<!-- As métricas estão pausadas temporariamente porque a API global caiu. Voltamos nisso depois! 
+### 📊 Meu Código em Dados
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TheDevYago&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDevYago&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens Mais Usadas" />
+</div>
+
+---
+-->
