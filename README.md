@@ -61,12 +61,16 @@ Sou um desenvolvedor Front-End apaixonado por criar interfaces responsivas, din�
 </div>
 
 ---
+<!-- O widget do Spotify está pausado temporariamente pelo limite do Vercel.
 <br>
 
 ### 🎧 O que estou ouvindo agora
 
 <div align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=marcosyagorochavieira&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  <a href="https://open.spotify.com/user/SEU_UID_AQUI">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=SEU_UID_AQUI&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
 </div>
 
 ---
+-->
